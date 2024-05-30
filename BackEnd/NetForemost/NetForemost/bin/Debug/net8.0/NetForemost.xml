@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NetForemost</name>
+    </assembly>
+    <members>
+        <member name="T:NetForemost.Migrations.StartEngine">
+            <inheritdoc />
+        </member>
+        <member name="M:NetForemost.Migrations.StartEngine.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:NetForemost.Migrations.StartEngine.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:NetForemost.Migrations.StartEngine.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

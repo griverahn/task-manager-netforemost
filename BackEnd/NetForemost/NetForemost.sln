@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetForemost", "NetForemost\NetForemost.csproj", "{C9EFD05C-61BC-4229-82EE-78489ED6DED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetForemostTests", "NetForemostTests\NetForemostTests.csproj", "{E2379F2C-A8B1-444E-91A7-6FFA459F2C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9EFD05C-61BC-4229-82EE-78489ED6DED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EFD05C-61BC-4229-82EE-78489ED6DED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EFD05C-61BC-4229-82EE-78489ED6DED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EFD05C-61BC-4229-82EE-78489ED6DED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2379F2C-A8B1-444E-91A7-6FFA459F2C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2379F2C-A8B1-444E-91A7-6FFA459F2C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2379F2C-A8B1-444E-91A7-6FFA459F2C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2379F2C-A8B1-444E-91A7-6FFA459F2C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD56F6DB-5C32-4989-A429-2634001E7D54}
+	EndGlobalSection
+EndGlobal

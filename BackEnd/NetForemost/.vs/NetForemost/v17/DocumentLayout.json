@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemost\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|solutionrelative:netforemost\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemost\\migrations\\20240530192708_startengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|solutionrelative:netforemost\\migrations\\20240530192708_startengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemost\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|solutionrelative:netforemost\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2379F2C-A8B1-444E-91A7-6FFA459F2C5B}|NetForemostTests\\NetForemostTests.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemosttests\\tests\\userservicetest\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2379F2C-A8B1-444E-91A7-6FFA459F2C5B}|NetForemostTests\\NetForemostTests.csproj|solutionrelative:netforemosttests\\tests\\userservicetest\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2379F2C-A8B1-444E-91A7-6FFA459F2C5B}|NetForemostTests\\NetForemostTests.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemosttests\\tests\\assignmentservicetest\\assignmentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2379F2C-A8B1-444E-91A7-6FFA459F2C5B}|NetForemostTests\\NetForemostTests.csproj|solutionrelative:netforemosttests\\tests\\assignmentservicetest\\assignmentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemost\\services\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|solutionrelative:netforemost\\services\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemost\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|solutionrelative:netforemost\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemost\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|solutionrelative:netforemost\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemost\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|solutionrelative:netforemost\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|solutionrelative:netforemost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemost\\netforemost.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|solutionrelative:netforemost\\netforemost.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemost\\netforemost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|solutionrelative:netforemost\\netforemost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|solutionrelative:netforemost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|solutionrelative:netforemost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|c:\\users\\glrp_\\source\\repos\\netforemost\\netforemost\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EFD05C-61BC-4229-82EE-78489ED6DED6}|NetForemost\\NetForemost.csproj|solutionrelative:netforemost\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Program.cs",
+              "RelativeDocumentMoniker": "NetForemost\\Program.cs",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Program.cs",
+              "RelativeToolTip": "NetForemost\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:57:18.863Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssignmentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemostTests\\Tests\\AssignmentServiceTest\\AssignmentServiceTests.cs",
+              "RelativeDocumentMoniker": "NetForemostTests\\Tests\\AssignmentServiceTest\\AssignmentServiceTests.cs",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemostTests\\Tests\\AssignmentServiceTest\\AssignmentServiceTests.cs",
+              "RelativeToolTip": "NetForemostTests\\Tests\\AssignmentServiceTest\\AssignmentServiceTests.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAiwFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:08:54.005Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemostTests\\Tests\\UserServiceTest\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "NetForemostTests\\Tests\\UserServiceTest\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemostTests\\Tests\\UserServiceTest\\UserServiceTests.cs",
+              "RelativeToolTip": "NetForemostTests\\Tests\\UserServiceTest\\UserServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:59:37.329Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "NetForemost\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "NetForemost\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:30:54.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240530192708_StartEngine.cs",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Migrations\\20240530192708_StartEngine.cs",
+              "RelativeDocumentMoniker": "NetForemost\\Migrations\\20240530192708_StartEngine.cs",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Migrations\\20240530192708_StartEngine.cs",
+              "RelativeToolTip": "NetForemost\\Migrations\\20240530192708_StartEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:27:08.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Models\\User.cs",
+              "RelativeDocumentMoniker": "NetForemost\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Models\\User.cs",
+              "RelativeToolTip": "NetForemost\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:59:08.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "NetForemost\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Models\\Assignment.cs",
+              "RelativeToolTip": "NetForemost\\Models\\Assignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:59:06.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NetForemost\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NetForemost\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T18:48:13.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NetForemost",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\NetForemost.csproj",
+              "RelativeDocumentMoniker": "NetForemost\\NetForemost.csproj",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\NetForemost.csproj",
+              "RelativeToolTip": "NetForemost\\NetForemost.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T18:45:57.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NetForemost",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\NetForemost.csproj",
+              "RelativeDocumentMoniker": "NetForemost\\NetForemost.csproj",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\NetForemost.csproj",
+              "RelativeToolTip": "NetForemost\\NetForemost.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T18:27:39.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\appsettings.json",
+              "RelativeDocumentMoniker": "NetForemost\\appsettings.json",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\appsettings.json",
+              "RelativeToolTip": "NetForemost\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T17:56:41.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Services\\AssignmentService.cs",
+              "RelativeDocumentMoniker": "NetForemost\\Services\\AssignmentService.cs",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Services\\AssignmentService.cs",
+              "RelativeToolTip": "NetForemost\\Services\\AssignmentService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:05:32.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "NetForemost\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Services\\UserService.cs",
+              "RelativeToolTip": "NetForemost\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:49:53.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "NetForemost\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "NetForemost\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:49:23.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "NetForemost\\Controllers\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\glrp_\\source\\repos\\NetForemost\\NetForemost\\Controllers\\AssignmentController.cs",
+              "RelativeToolTip": "NetForemost\\Controllers\\AssignmentController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwEUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:49:24.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
